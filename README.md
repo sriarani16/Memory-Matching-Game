@@ -51,8 +51,3 @@ At the end, your *matchingGame* directory should contain the following:
 * images/*
 
 
-## Grading
-This task is worth as much as 5% of your final grade.  
-
-## Submission
-On top of the commits to your Git repository, please upload your source files to moodle.
